@@ -1,4 +1,4 @@
-<h1>Pokedex<h1>
+<h1>Pokedex</h1>
 
 <p>Este é um projeto pessoal, ao qual a ideia partiu de um desafio para uma vaga de emprego.</p>
 
